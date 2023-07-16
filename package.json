@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-TWELWEB/",
+    "build": "vite build --base=/html_css_91_Roki2221/",
     "preview": "vite preview"
   },
   "devDependencies": {
